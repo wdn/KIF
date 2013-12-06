@@ -11,7 +11,7 @@
 #import "LoadableCategory.h"
 
 
-MAKE_CATEGORIES_LOADABLE(NSFileManager_KIFAdditions)
+//MAKE_CATEGORIES_LOADABLE(NSFileManager_KIFAdditions)
 
 
 @implementation NSFileManager (KIFAdditions)

@@ -11,7 +11,7 @@
 #import "LoadableCategory.h"
 
 
-MAKE_CATEGORIES_LOADABLE(UITouch_KIFAdditions)
+//MAKE_CATEGORIES_LOADABLE(UITouch_KIFAdditions)
 
 
 @interface UITouch () {

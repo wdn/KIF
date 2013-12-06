@@ -13,7 +13,7 @@
 #import "UIView-KIFAdditions.h"
 
 
-MAKE_CATEGORIES_LOADABLE(UIScrollView_KIFAdditions)
+//MAKE_CATEGORIES_LOADABLE(UIScrollView_KIFAdditions)
 
 
 @implementation UIScrollView (KIFAdditions)
